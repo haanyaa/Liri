@@ -1,0 +1,27 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "App",
+  "main": "000",
+  "scripts": {
+    "test": "happy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haanyaa/Liri.git"
+  },
+  "keywords": [
+    "life"
+  ],
+  "author": "arthur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haanyaa/Liri/issues"
+  },
+  "homepage": "https://github.com/haanyaa/Liri#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
